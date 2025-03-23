@@ -71,10 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Fotos
 
-[Primeira Foto](pictures/Foto_1.png)
+![Primeira Foto](pictures/Foto_1.png)
 
-[Segunda Foto](pictures/Foto_2.png)
+![Segunda Foto](pictures/Foto_2.png)
 
-[Terceira Foto](pictures/Foto_3.png)
+![Terceira Foto](pictures/Foto_3.png)
 
-[Quarta Foto](pictures/Foto_4.png)
+![Quarta Foto](pictures/Foto_4.png)
